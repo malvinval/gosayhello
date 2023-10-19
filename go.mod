@@ -1,3 +1,3 @@
-module github.com/malvinval/gosayhello/v2
+module github.com/malvinval/gosayhello
 
 go 1.21.3
